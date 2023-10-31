@@ -1,0 +1,32 @@
+---------------
+Energía anuales
+---------------
+ * Weibull formada con los datos del periodo
+ * Con la weibull se calcula la energía anual
+ * Mape de la energía anual del año de evaluación vz energía anual con weibull del periodo
+
+     2018: 9134.20 MWh
+2001-2017: 9371.37 MWh | k=2.610 l=7.546 | MAPE= 2.60%
+2001-2017: 7386.69 MWh  (con vel prom > 3.5)| vel prom=6.71    | MAPE=19.13%
+2001-2017: 9712.01 MWh  (con vel prom todas)| vel prom=7.30    | MAPE= 6.33%
+------------------------------------------------------------
+     2019: 9559.52 MWh
+2001-2018: 9360.23 MWh | k=2.600 l=7.541 | MAPE= 2.08%
+2001-2018: 7366.54 MWh  (con vel prom > 3.5)| vel prom=6.71    | MAPE=22.94%
+2001-2018: 9719.01 MWh  (con vel prom todas)| vel prom=7.30    | MAPE= 1.67%
+------------------------------------------------------------
+     2020: 9700.29 MWh
+2001-2019: 9383.62 MWh | k=2.596 l=7.549 | MAPE= 3.26%
+2001-2019: 7392.98 MWh  (con vel prom > 3.5)| vel prom=6.72    | MAPE=23.79%
+2001-2019: 9738.16 MWh  (con vel prom todas)| vel prom=7.30    | MAPE= 0.39%
+------------------------------------------------------------
+     2021: 9129.42 MWh
+2001-2020: 9395.39 MWh | k=2.605 l=7.554 | MAPE= 2.91%
+2001-2020: 7413.88 MWh  (con vel prom > 3.5)| vel prom=6.72    | MAPE=18.79%
+2001-2020: 9752.82 MWh  (con vel prom todas)| vel prom=7.31    | MAPE= 6.83%
+------------------------------------------------------------
+     2022: 9601.26 MWh
+2001-2021: 9386.03 MWh | k=2.602 l=7.551 | MAPE= 2.24%
+2001-2021: 7399.79 MWh  (con vel prom > 3.5)| vel prom=6.72    | MAPE=22.93%
+2001-2021: 9743.33 MWh  (con vel prom todas)| vel prom=7.31    | MAPE= 1.48%
+------------------------------------------------------------

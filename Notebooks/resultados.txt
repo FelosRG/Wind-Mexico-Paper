@@ -1,0 +1,68 @@
+
+
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+PARAMETROS WEIBULL DE LAS TEMPORADAS
+"tabla que acompaña a las PDF del año 2017 con las temporadas"
+
+Hasta año 2017 -> Hot k=2.930 l=6.553 | Mild k=2.634 l=7.796 | Anual k=2.624 l=7.490
+Hasta año 2018 -> Hot k=2.930 l=6.553 | Mild k=2.590 l=7.815 | Anual k=2.585 l=7.505
+Hasta año 2019 -> Hot k=2.972 l=6.684 | Mild k=2.623 l=7.790 | Anual k=2.631 l=7.517
+Hasta año 2020 -> Hot k=2.972 l=6.684 | Mild k=2.625 l=7.814 | Anual k=2.632 l=7.536
+Hasta año 2021 -> Hot k=3.017 l=6.659 | Mild k=2.633 l=7.844 | Anual k=2.641 l=7.553
+
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+
+Año entrenamiento 2001-2017 | Evaluación año 2018
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1611.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 7523.1 MWh
+Energía anual     (año evaluación) [Referencia] : 9134.2 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1592.2 MWh | MAPE: 1.18%
+Energia temp mild weibull (año evaluación)  : 7512.1 MWh | MAPE: 0.15%
+Energía anual     weibull (año evaluación)  : 9171.7 MWh | MAPE: 0.41%
+
+Energía temp hot  (con año típico)  : 1612.5 MWh | MAPE: 0.09%
+Energía temp mild (con año tipico)  : 7527.2 MWh | MAPE: 0.05%
+Energía año típico                  : 9208.3 MWh | MAPE: 0.81%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1365.0 MWh | MAPE: 15.28% | Vel prom 6.51
+Energía  mild con prom de velocidad  (año evaluación): 7120.8 MWh | MAPE: 5.35%  | Vel prom 7.59
+Energía  anual con prom de velocidad (año evaluación): 8430.4 MWh | MAPE: 7.70%  | Vel prom 6.62
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2016): k=2.668 | lambda=7.523
+December   (2004): k=2.575 | lambda=7.498
+
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+
+
+k Y LAMBDAS DE DATOS ANUALES (TIPICOS O REPRESENTATIVOS)
+
+Hasta año 2018:  Tipico k=2.6164 l=7.5516| Representativo k=2.6005 l=7.5412
+Hasta año 2019:  Tipico k=2.6034 l=7.5605| Representativo k=2.5959 l=7.5490
+Hasta año 2020:  Tipico k=2.6303 l=7.6007| Representativo k=2.6050 l=7.5543
+Hasta año 2021:  Tipico k=2.6274 l=7.5656| Representativo k=2.6017 l=7.5505
+Hasta año 2022:  Tipico k=2.6254 l=7.5849| Representativo k=2.6001 l=7.5533
+
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------

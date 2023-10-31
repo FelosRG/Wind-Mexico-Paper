@@ -1,0 +1,44 @@
+ROUND 1: 2001 -> 2019 | Evaluación 2020
+January    -> MAPE:  6.06%
+February   -> MAPE:  1.23%
+March      -> MAPE:  5.03%
+April      -> MAPE: 21.56%
+May        -> MAPE:  0.20%
+June       -> MAPE: 18.38%
+July       -> MAPE: 10.01%
+August     -> MAPE: 12.46%
+September  -> MAPE: 12.65%
+October    -> MAPE: 17.38%
+November   -> MAPE:  7.29%
+December   -> MAPE:  5.96%
+Promedio MAPE -> MAPE:  5.96%
+
+ROUND 2: 2001 -> 2020 | Evaluación 2021
+January    -> MAPE:  1.81%
+February   -> MAPE:  7.95%
+March      -> MAPE: 17.63%
+April      -> MAPE: 26.31%
+May        -> MAPE: 15.91%
+June       -> MAPE: 45.62%
+July       -> MAPE: 64.40%
+August     -> MAPE:  5.14%
+September  -> MAPE:  5.19%
+October    -> MAPE:  5.72%
+November   -> MAPE: 15.36%
+December   -> MAPE: 25.33%
+Promedio MAPE -> MAPE: 25.33%
+
+ROUND 3: 2001 -> 2021 | Evaluación 2022
+January    -> MAPE:  3.56%
+February   -> MAPE:  7.78%
+March      -> MAPE:  6.05%
+April      -> MAPE:  4.23%
+May        -> MAPE: 24.41%
+June       -> MAPE: 11.18%
+July       -> MAPE: 12.78%
+August     -> MAPE: 17.02%
+September  -> MAPE: 18.09%
+October    -> MAPE: 16.71%
+November   -> MAPE: 10.22%
+December   -> MAPE:  5.76%
+Promedio MAPE -> MAPE:  5.76%

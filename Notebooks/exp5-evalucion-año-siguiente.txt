@@ -1,0 +1,93 @@
+Año entrenamiento 2001-2017 | Evaluación año 2018
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 7523.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 1611.1 Mwh
+Energía anual     (año evaluación) [Referencia] : 9134.2 Mwh
+
+Energia temp hot  weibull (año evaluación)  : 7512.1 MWh | MAPE: 0.15%
+Energia temp mild weibull (año evaluación)  : 1592.2 Mwh | MAPE: 1.18%
+Energía anual     weibull (año evaluación)  : 9171.7 Mwh | MAPE: 0.41%
+
+Energía temp hot  (con año típico)  : 7527.2 Mwh | MAPE: 0.05%
+Energía temp mild (con año tipico)  : 1612.5 Mwh | MAPE: 0.09%
+Energía año típico                  : 9139.7 Mwh | MAPE: 0.06%
+
+Energía  hot  con prom de velocidad  (año evaluación): 6081.3 Mwh | MAPE: 19.16%
+Energía  mild con prom de velocidad  (año evaluación): 1055.4 MWh | MAPE: 34.49%
+Energía  anual con prom de velocidad (año evaluación): 7136.7 Mwh | MAPE: 21.87%
+
+
+Año entrenamiento 2001-2018 | Evaluación año 2019
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 7802.4 MWh
+Energia temp mild (año evaluación) [Referencia] : 1757.2 Mwh
+Energía anual     (año evaluación) [Referencia] : 9559.5 Mwh
+
+Energia temp hot  weibull (año evaluación)  : 7950.6 MWh | MAPE: 1.90%
+Energia temp mild weibull (año evaluación)  : 1737.5 Mwh | MAPE: 1.12%
+Energía anual     weibull (año evaluación)  : 9794.2 Mwh | MAPE: 2.45%
+
+Energía temp hot  (con año típico)  : 7574.4 Mwh | MAPE: 2.92%
+Energía temp mild (con año tipico)  : 1612.5 Mwh | MAPE: 8.23%
+Energía año típico                  : 9186.9 Mwh | MAPE: 3.90%
+
+Energía  hot  con prom de velocidad  (año evaluación): 6683.2 Mwh | MAPE: 14.34%
+Energía  mild con prom de velocidad  (año evaluación): 1275.5 MWh | MAPE: 27.41%
+Energía  anual con prom de velocidad (año evaluación): 7958.7 Mwh | MAPE: 16.75%
+
+
+Año entrenamiento 2001-2019 | Evaluación año 2020
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 7932.2 MWh
+Energia temp mild (año evaluación) [Referencia] : 1768.1 Mwh
+Energía anual     (año evaluación) [Referencia] : 9700.3 Mwh
+
+Energia temp hot  weibull (año evaluación)  : 7839.9 MWh | MAPE: 1.16%
+Energia temp mild weibull (año evaluación)  : 1767.3 Mwh | MAPE: 0.04%
+Energía anual     weibull (año evaluación)  : 9616.5 Mwh | MAPE: 0.86%
+
+Energía temp hot  (con año típico)  : 7516.6 Mwh | MAPE: 5.24%
+Energía temp mild (con año tipico)  : 1699.2 Mwh | MAPE: 3.90%
+Energía año típico                  : 9215.7 Mwh | MAPE: 5.00%
+
+Energía  hot  con prom de velocidad  (año evaluación): 6677.9 Mwh | MAPE: 15.81%
+Energía  mild con prom de velocidad  (año evaluación): 1230.8 MWh | MAPE: 30.39%
+Energía  anual con prom de velocidad (año evaluación): 7908.7 Mwh | MAPE: 18.47%
+
+
+Año entrenamiento 2001-2020 | Evaluación año 2021
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 7639.7 MWh
+Energia temp mild (año evaluación) [Referencia] : 1489.7 Mwh
+Energía anual     (año evaluación) [Referencia] : 9129.4 Mwh
+
+Energia temp hot  weibull (año evaluación)  : 7619.4 MWh | MAPE: 0.27%
+Energia temp mild weibull (año evaluación)  : 1488.5 Mwh | MAPE: 0.08%
+Energía anual     weibull (año evaluación)  : 9203.6 Mwh | MAPE: 0.81%
+
+Energía temp hot  (con año típico)  : 7566.2 Mwh | MAPE: 0.96%
+Energía temp mild (con año tipico)  : 1699.2 Mwh | MAPE: 14.06%
+Energía año típico                  : 9265.4 Mwh | MAPE: 1.49%
+
+Energía  hot  con prom de velocidad  (año evaluación): 6252.4 Mwh | MAPE: 18.16%
+Energía  mild con prom de velocidad  (año evaluación): 1003.4 MWh | MAPE: 32.65%
+Energía  anual con prom de velocidad (año evaluación): 7255.8 Mwh | MAPE: 20.52%
+
+
+Año entrenamiento 2001-2021 | Evaluación año 2022
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 7979.5 MWh
+Energia temp mild (año evaluación) [Referencia] : 1621.8 Mwh
+Energía anual     (año evaluación) [Referencia] : 9601.3 Mwh
+
+Energia temp hot  weibull (año evaluación)  : 7824.3 MWh | MAPE: 1.94%
+Energia temp mild weibull (año evaluación)  : 1597.6 Mwh | MAPE: 1.49%
+Energía anual     weibull (año evaluación)  : 9562.9 Mwh | MAPE: 0.40%
+
+Energía temp hot  (con año típico)  : 7627.7 Mwh | MAPE: 4.41%
+Energía temp mild (con año tipico)  : 1675.7 Mwh | MAPE: 3.32%
+Energía año típico                  : 9303.3 Mwh | MAPE: 3.10%
+
+Energía  hot  con prom de velocidad  (año evaluación): 6506.0 Mwh | MAPE: 18.47%
+Energía  mild con prom de velocidad  (año evaluación): 1169.1 MWh | MAPE: 27.91%
+Energía  anual con prom de velocidad (año evaluación): 7675.1 Mwh | MAPE: 20.06%

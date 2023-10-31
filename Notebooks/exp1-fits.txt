@@ -1,0 +1,41 @@
+ROUND 1: 2001 -> 2019
+January    -> Rep.: k=2.46 l=7.69 | Tip.: k=2.55 l=7.68 año=2016
+February   -> Rep.: k=2.50 l=8.00 | Tip.: k=2.42 l=7.76 año=2001
+March      -> Rep.: k=2.51 l=8.24 | Tip.: k=2.51 l=8.12 año=2003
+April      -> Rep.: k=2.78 l=8.76 | Tip.: k=2.90 l=8.77 año=2005
+May        -> Rep.: k=2.79 l=8.01 | Tip.: k=2.70 l=7.75 año=2001
+June       -> Rep.: k=2.86 l=7.59 | Tip.: k=2.85 l=7.75 año=2010
+July       -> Rep.: k=3.22 l=6.78 | Tip.: k=3.38 l=6.78 año=2017
+August     -> Rep.: k=3.00 l=6.41 | Tip.: k=2.93 l=6.53 año=2019
+September  -> Rep.: k=2.75 l=6.69 | Tip.: k=2.74 l=6.74 año=2010
+October    -> Rep.: k=2.78 l=7.22 | Tip.: k=2.86 l=7.27 año=2010
+November   -> Rep.: k=2.59 l=7.47 | Tip.: k=2.56 l=7.47 año=2001
+December   -> Rep.: k=2.48 l=7.64 | Tip.: k=2.58 l=7.50 año=2004
+
+ROUND 2: 2001 -> 2020
+January    -> Rep.: k=2.48 l=7.70 | Tip.: k=2.55 l=7.68 año=2016
+February   -> Rep.: k=2.51 l=7.99 | Tip.: k=2.42 l=7.76 año=2001
+March      -> Rep.: k=2.53 l=8.25 | Tip.: k=2.51 l=8.12 año=2003
+April      -> Rep.: k=2.78 l=8.72 | Tip.: k=2.90 l=8.77 año=2005
+May        -> Rep.: k=2.79 l=8.00 | Tip.: k=2.72 l=7.76 año=2020
+June       -> Rep.: k=2.89 l=7.64 | Tip.: k=2.85 l=7.75 año=2010
+July       -> Rep.: k=3.22 l=6.79 | Tip.: k=3.38 l=6.78 año=2017
+August     -> Rep.: k=3.00 l=6.43 | Tip.: k=2.93 l=6.53 año=2019
+September  -> Rep.: k=2.71 l=6.67 | Tip.: k=2.74 l=6.74 año=2010
+October    -> Rep.: k=2.79 l=7.26 | Tip.: k=2.86 l=7.27 año=2010
+November   -> Rep.: k=2.60 l=7.48 | Tip.: k=2.56 l=7.47 año=2001
+December   -> Rep.: k=2.48 l=7.64 | Tip.: k=2.56 l=7.70 año=2020
+
+ROUND 3: 2001 -> 2021
+January    -> Rep.: k=2.47 l=7.70 | Tip.: k=2.55 l=7.68 año=2016
+February   -> Rep.: k=2.51 l=7.97 | Tip.: k=2.42 l=7.76 año=2001
+March      -> Rep.: k=2.53 l=8.28 | Tip.: k=2.60 l=8.38 año=2009
+April      -> Rep.: k=2.77 l=8.68 | Tip.: k=2.90 l=8.77 año=2005
+May        -> Rep.: k=2.78 l=8.02 | Tip.: k=2.72 l=7.76 año=2020
+June       -> Rep.: k=2.86 l=7.59 | Tip.: k=2.85 l=7.75 año=2010
+July       -> Rep.: k=3.18 l=6.75 | Tip.: k=3.38 l=6.78 año=2017
+August     -> Rep.: k=3.01 l=6.43 | Tip.: k=3.09 l=6.45 año=2021
+September  -> Rep.: k=2.72 l=6.68 | Tip.: k=2.74 l=6.74 año=2010
+October    -> Rep.: k=2.76 l=7.26 | Tip.: k=2.86 l=7.27 año=2010
+November   -> Rep.: k=2.61 l=7.46 | Tip.: k=2.56 l=7.47 año=2001
+December   -> Rep.: k=2.50 l=7.70 | Tip.: k=2.56 l=7.70 año=2020

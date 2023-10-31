@@ -1,0 +1,368 @@
+Año entrenamiento 2001-2014 | Evaluación año 2015
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1659.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 6929.6 MWh
+Energía anual     (año evaluación) [Referencia] : 8588.8 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1620.6 MWh | MAPE: 2.32%
+Energia temp mild weibull (año evaluación)  : 6899.4 MWh | MAPE: 0.44%
+Energía anual     weibull (año evaluación)  : 8560.5 MWh | MAPE: 0.33%
+
+Energía temp hot  (con año típico)  : 1621.9 MWh | MAPE: 2.24%
+Energía temp mild (con año tipico)  : 7502.9 MWh | MAPE: 8.27%
+Energía año típico                  : 9193.9 MWh | MAPE: 7.05%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1382.4 MWh | MAPE: 16.68% | Vel prom 6.52
+Energía  mild con prom de velocidad  (año evaluación): 6377.0 MWh | MAPE: 7.98% | Vel prom 7.34
+Energía  anual con prom de velocidad (año evaluación): 7724.7 MWh | MAPE: 10.06% | Vel prom 6.44
+
+Parámetros Weibull (Año típico):
+January    (2013): k=2.481 | lambda=7.470
+February   (2001): k=2.425 | lambda=7.759
+March      (2009): k=2.602 | lambda=8.383
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2013): k=3.422 | lambda=6.822
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2002): k=2.597 | lambda=7.348
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2015 | Evaluación año 2016
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1750.9 MWh
+Energia temp mild (año evaluación) [Referencia] : 7302.1 MWh
+Energía anual     (año evaluación) [Referencia] : 9053.0 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1751.9 MWh | MAPE: 0.06%
+Energia temp mild weibull (año evaluación)  : 7294.6 MWh | MAPE: 0.10%
+Energía anual     weibull (año evaluación)  : 9113.7 MWh | MAPE: 0.67%
+
+Energía temp hot  (con año típico)  : 1621.9 MWh | MAPE: 7.37%
+Energía temp mild (con año tipico)  : 7469.0 MWh | MAPE: 2.29%
+Energía año típico                  : 9160.6 MWh | MAPE: 1.19%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1508.4 MWh | MAPE: 13.85% | Vel prom 6.58
+Energía  mild con prom de velocidad  (año evaluación): 6832.6 MWh | MAPE: 6.43% | Vel prom 7.48
+Energía  anual con prom de velocidad (año evaluación): 8299.8 MWh | MAPE: 8.32% | Vel prom 6.64
+
+Parámetros Weibull (Año típico):
+January    (2013): k=2.481 | lambda=7.470
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2013): k=3.422 | lambda=6.822
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2016 | Evaluación año 2017
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1605.5 MWh
+Energia temp mild (año evaluación) [Referencia] : 8080.1 MWh
+Energía anual     (año evaluación) [Referencia] : 9685.6 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1600.3 MWh | MAPE: 0.32%
+Energia temp mild weibull (año evaluación)  : 8113.9 MWh | MAPE: 0.42%
+Energía anual     weibull (año evaluación)  : 9814.5 MWh | MAPE: 1.33%
+
+Energía temp hot  (con año típico)  : 1621.9 MWh | MAPE: 1.02%
+Energía temp mild (con año tipico)  : 7516.6 MWh | MAPE: 6.97%
+Energía año típico                  : 9208.5 MWh | MAPE: 4.93%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1359.4 MWh | MAPE: 15.33% | Vel prom 6.45
+Energía  mild con prom de velocidad  (año evaluación): 7832.6 MWh | MAPE: 3.06% | Vel prom 7.78
+Energía  anual con prom de velocidad (año evaluación): 9111.4 MWh | MAPE: 5.93% | Vel prom 6.84
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2013): k=3.422 | lambda=6.822
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2017 | Evaluación año 2018
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1611.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 7523.1 MWh
+Energía anual     (año evaluación) [Referencia] : 9134.2 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1592.2 MWh | MAPE: 1.18%
+Energia temp mild weibull (año evaluación)  : 7512.1 MWh | MAPE: 0.15%
+Energía anual     weibull (año evaluación)  : 9171.7 MWh | MAPE: 0.41%
+
+Energía temp hot  (con año típico)  : 1612.5 MWh | MAPE: 0.09%
+Energía temp mild (con año tipico)  : 7527.2 MWh | MAPE: 0.05%
+Energía año típico                  : 9208.3 MWh | MAPE: 0.81%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1365.0 MWh | MAPE: 15.28% | Vel prom 6.51
+Energía  mild con prom de velocidad  (año evaluación): 7120.8 MWh | MAPE: 5.35% | Vel prom 7.59
+Energía  anual con prom de velocidad (año evaluación): 8430.4 MWh | MAPE: 7.70% | Vel prom 6.62
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2016): k=2.668 | lambda=7.523
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2018 | Evaluación año 2019
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1757.2 MWh
+Energia temp mild (año evaluación) [Referencia] : 7802.4 MWh
+Energía anual     (año evaluación) [Referencia] : 9559.5 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1737.5 MWh | MAPE: 1.12%
+Energia temp mild weibull (año evaluación)  : 7950.6 MWh | MAPE: 1.90%
+Energía anual     weibull (año evaluación)  : 9794.2 MWh | MAPE: 2.45%
+
+Energía temp hot  (con año típico)  : 1612.5 MWh | MAPE: 8.23%
+Energía temp mild (con año tipico)  : 7574.4 MWh | MAPE: 2.92%
+Energía año típico                  : 9263.0 MWh | MAPE: 3.10%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1504.4 MWh | MAPE: 14.39% | Vel prom 6.56
+Energía  mild con prom de velocidad  (año evaluación): 7522.7 MWh | MAPE: 3.58% | Vel prom 7.66
+Energía  anual con prom de velocidad (año evaluación): 8969.0 MWh | MAPE: 6.18% | Vel prom 6.84
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2016): k=2.343 | lambda=7.722
+
+
+Año entrenamiento 2001-2019 | Evaluación año 2020
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1768.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 7932.2 MWh
+Energía anual     (año evaluación) [Referencia] : 9700.3 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1767.3 MWh | MAPE: 0.04%
+Energia temp mild weibull (año evaluación)  : 7839.9 MWh | MAPE: 1.16%
+Energía anual     weibull (año evaluación)  : 9616.5 MWh | MAPE: 0.86%
+
+Energía temp hot  (con año típico)  : 1699.2 MWh | MAPE: 3.90%
+Energía temp mild (con año tipico)  : 7516.6 MWh | MAPE: 5.24%
+Energía año típico                  : 9282.7 MWh | MAPE: 4.31%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1529.9 MWh | MAPE: 13.48% | Vel prom 6.67
+Energía  mild con prom de velocidad  (año evaluación): 7433.2 MWh | MAPE: 6.29% | Vel prom 7.59
+Energía  anual con prom de velocidad (año evaluación): 8923.4 MWh | MAPE: 8.01% | Vel prom 6.83
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2019): k=2.933 | lambda=6.526
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2020 | Evaluación año 2021
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1489.7 MWh
+Energia temp mild (año evaluación) [Referencia] : 7639.7 MWh
+Energía anual     (año evaluación) [Referencia] : 9129.4 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1488.5 MWh | MAPE: 0.08%
+Energia temp mild weibull (año evaluación)  : 7619.4 MWh | MAPE: 0.27%
+Energía anual     weibull (año evaluación)  : 9203.6 MWh | MAPE: 0.81%
+
+Energía temp hot  (con año típico)  : 1699.2 MWh | MAPE: 14.06%
+Energía temp mild (con año tipico)  : 7566.2 MWh | MAPE: 0.96%
+Energía año típico                  : 9334.4 MWh | MAPE: 2.24%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1232.7 MWh | MAPE: 17.26% | Vel prom 6.26
+Energía  mild con prom de velocidad  (año evaluación): 7200.0 MWh | MAPE: 5.76% | Vel prom 7.58
+Energía  anual con prom de velocidad (año evaluación): 8342.2 MWh | MAPE: 8.62% | Vel prom 6.64
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+April      (2005): k=2.901 | lambda=8.770
+May        (2020): k=2.721 | lambda=7.759
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2019): k=2.933 | lambda=6.526
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2020): k=2.558 | lambda=7.702
+
+
+Año entrenamiento 2001-2021 | Evaluación año 2022
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1621.8 MWh
+Energia temp mild (año evaluación) [Referencia] : 7979.5 MWh
+Energía anual     (año evaluación) [Referencia] : 9601.3 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1597.6 MWh | MAPE: 1.49%
+Energia temp mild weibull (año evaluación)  : 7824.3 MWh | MAPE: 1.94%
+Energía anual     weibull (año evaluación)  : 9562.9 MWh | MAPE: 0.40%
+
+Energía temp hot  (con año típico)  : 1675.7 MWh | MAPE: 3.32%
+Energía temp mild (con año tipico)  : 7627.7 MWh | MAPE: 4.41%
+Energía año típico                  : 9380.3 MWh | MAPE: 2.30%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1372.3 MWh | MAPE: 15.38% | Vel prom 6.40
+Energía  mild con prom de velocidad  (año evaluación): 7552.7 MWh | MAPE: 5.35% | Vel prom 7.73
+Energía  anual con prom de velocidad (año evaluación): 8838.4 MWh | MAPE: 7.95% | Vel prom 6.76
+
+Parámetros Weibull (Año típico):
+January    (2016): k=2.547 | lambda=7.679
+February   (2001): k=2.425 | lambda=7.759
+March      (2009): k=2.602 | lambda=8.383
+April      (2005): k=2.901 | lambda=8.770
+May        (2020): k=2.721 | lambda=7.759
+June       (2010): k=2.851 | lambda=7.753
+July       (2017): k=3.384 | lambda=6.778
+August     (2021): k=3.090 | lambda=6.449
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2001): k=2.562 | lambda=7.468
+December   (2020): k=2.558 | lambda=7.702
+
+
+-------------------------------------------------------------------------------
+PROMEDIOS MAPES
+MAPE temp hot   weibull: 0.83%
+MAPE temp mild  weibull: 0.80%
+MAPE      anual weibull: 0.91%
+
+MAPE temp hot   tipico  (pred): 5.03%
+MAPE temp mild  tipico  (pred): 3.89%
+MAPE      anual tipico  (pred): 3.24%
+
+MAPE temp hot   promedio: 15.20%
+MAPE temp mild  promedio: 5.47%
+MAPE temp anual promedio: 7.85%
+
+
+
+
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+
+Año entrenamiento 2001-2014 | Evaluación año 2015
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1659.1 MWh
+Energia temp mild (año evaluación) [Referencia] : 6929.6 MWh
+Energía anual     (año evaluación) [Referencia] : 8588.8 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1620.6 MWh | MAPE: 2.32%
+Energia temp mild weibull (año evaluación)  : 6899.4 MWh | MAPE: 0.44%
+Energía anual     weibull (año evaluación)  : 8560.5 MWh | MAPE: 0.33%
+
+Energía temp hot  (con año típico)  : 1621.9 MWh | MAPE: 2.24%
+Energía temp mild (con año tipico)  : 7502.9 MWh | MAPE: 8.27%
+Energía año típico                  : 9193.9 MWh | MAPE: 7.05%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1382.4 MWh | MAPE: 16.68% | Vel prom 6.52
+Energía  mild con prom de velocidad  (año evaluación): 6377.0 MWh | MAPE: 7.98% | Vel prom 7.34
+Energía  anual con prom de velocidad (año evaluación): 7724.7 MWh | MAPE: 10.06% | Vel prom 6.44
+
+Parámetros Weibull (Año típico):
+January    (2013): k=2.481 | lambda=7.470
+February   (2001): k=2.425 | lambda=7.759
+March      (2009): k=2.602 | lambda=8.383
+April      (2005): k=2.901 | lambda=8.770
+May        (2001): k=2.700 | lambda=7.750
+June       (2010): k=2.851 | lambda=7.753
+July       (2013): k=3.422 | lambda=6.822
+August     (2001): k=2.873 | lambda=6.127
+September  (2010): k=2.744 | lambda=6.743
+October    (2010): k=2.862 | lambda=7.269
+November   (2002): k=2.597 | lambda=7.348
+December   (2004): k=2.575 | lambda=7.498
+
+
+Año entrenamiento 2001-2015 | Evaluación año 2016
+----------------------------------------------------------------------
+Energia temp hot  (año evaluación) [Referencia] : 1750.9 MWh
+Energia temp mild (año evaluación) [Referencia] : 7302.1 MWh
+Energía anual     (año evaluación) [Referencia] : 9053.0 MWh
+
+Energia temp hot  weibull (año evaluación)  : 1751.9 MWh | MAPE: 0.06%
+Energia temp mild weibull (año evaluación)  : 7294.6 MWh | MAPE: 0.10%
+Energía anual     weibull (año evaluación)  : 9113.7 MWh | MAPE: 0.67%
+
+Energía temp hot  (con año típico)  : 1621.9 MWh | MAPE: 7.37%
+Energía temp mild (con año tipico)  : 7469.0 MWh | MAPE: 2.29%
+Energía año típico                  : 9160.6 MWh | MAPE: 1.19%
+
+Energía  hot  con prom de velocidad  (año evaluación): 1508.4 MWh | MAPE: 13.85% | Vel prom 6.58
+Energía  mild con prom de velocidad  (año evaluación): 6832.6 MWh | MAPE: 6.43% | Vel prom 7.48
+Energía  anual con prom de velocidad (año evaluación): 8299.8 MWh | MAPE: 8.32% | Vel prom 6.64
+
+Parámetros Weibull (Año típico):
+January    (2013): k=2.481 | lambda=7.470
+February   (2001): k=2.425 | lambda=7.759
+March      (2003): k=2.506 | lambda=8.121
+...
+MAPE temp mild  promedio: 5.47%
+MAPE temp anual promedio: 7.85%
+
+
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+
+
+Hasta año 2015:  Tipico k=2.6359 l=7.5550| Representativo k=2.6174 l=7.5423
+Hasta año 2016:  Tipico k=2.6303 l=7.5388| Representativo k=2.6176 l=7.5369
+Hasta año 2017:  Tipico k=2.6123 l=7.5410| Representativo k=2.6103 l=7.5463
+Hasta año 2018:  Tipico k=2.6164 l=7.5516| Representativo k=2.6005 l=7.5412
+Hasta año 2019:  Tipico k=2.6034 l=7.5605| Representativo k=2.5959 l=7.5490
+Hasta año 2020:  Tipico k=2.6303 l=7.6007| Representativo k=2.6050 l=7.5543
+Hasta año 2021:  Tipico k=2.6274 l=7.5656| Representativo k=2.6017 l=7.5505
+Hasta año 2022:  Tipico k=2.6254 l=7.5849| Representativo k=2.6001 l=7.5533
+
+
+Hasta año 2015 -> Hot k=2.942 l=6.568 | Mild k=2.614 l=7.766 | Anual k=2.613 l=7.471
+Hasta año 2016 -> Hot k=2.942 l=6.568 | Mild k=2.623 l=7.790 | Anual k=2.619 l=7.489
+Hasta año 2017 -> Hot k=2.930 l=6.553 | Mild k=2.634 l=7.796 | Anual k=2.624 l=7.490
+Hasta año 2018 -> Hot k=2.930 l=6.553 | Mild k=2.590 l=7.815 | Anual k=2.585 l=7.505
+Hasta año 2019 -> Hot k=2.972 l=6.684 | Mild k=2.623 l=7.790 | Anual k=2.631 l=7.517
+Hasta año 2020 -> Hot k=2.972 l=6.684 | Mild k=2.625 l=7.814 | Anual k=2.632 l=7.536
+Hasta año 2021 -> Hot k=3.017 l=6.659 | Mild k=2.633 l=7.844 | Anual k=2.641 l=7.553
+
+
