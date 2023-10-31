@@ -1,4 +1,6 @@
-# Enhancing wind power forecasting by intelligent statistical treatment of the wind resource data at the site
+# Wind-Stat-Forecast
+🚧 *This repository contains the code for the paper "Enhancing wind power forecasting by intelligent statistical treatment of the wind resource data at the site" which is currently under review*
+
 Wind power is a key energy source to supply clean energy to meet today ́s energy needs.
 Despite the great benefits of this resource, such as zero-emissions, its main drawback is its intermittency.
 Deterministic approaches are frequently used to forecast it and to estimate wind power generation. 
@@ -20,3 +22,16 @@ The data was obtained from the NASA model's API, which can be accessed at the li
 * In the **notebooks** folder, you will find the notebooks containing the experiments conducted.
 
 * In the **lib** folder, you will find all the supporting code used in the notebooks. For example, in the **lib/energia.py** module, the functions for calculating the annual energy of the sites and more are defined.
+## Autors
+* **Monica Borunda** <br>
+  CONACYT-Tecnológico Nacional de México-Centro Nacional de Investigación y Desarrollo Tecnológico, Cuernavaca, Morelos
+  Correspondence: [monicabp@cenidet.tecnm.mx](monicabp@cenidet.tecnm.mx)
+  
+* **Adrían Ramírez** <br>
+  Facultad de Ciencias, Universidad Nacional Autónoma de México, Ciudad de México.
+* **Raul Garduño** <br>
+ Instituto Nacional de Electricidad y Energias Limpias, Cuernavaca, Morelos.
+* **Carlos García Beltran** <br>
+  CENIDET, Cuernavaca, Morelos.
+* **Rito Mijarez** <br>
+  Instituto Nacional de Electricidad y Energias Limpias, Cuernavaca.
