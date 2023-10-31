@@ -16,7 +16,7 @@ the proposed methodology. Seasonality, WRTY and the seasonal, and annual generat
 are estimated for a wind farm. Results are compared with measured ones showing good agreement.
 
 ## Data Source 📝
-The data was obtained from the NASA model's API, which can be accessed at the link.
+The data was obtained from the NASA model's API, which can be accessed at the [link](https://data.giss.nasa.gov/gistemp/).
 
 ## Code Structure
 * In the **notebooks** folder, you will find the notebooks containing the experiments conducted.
