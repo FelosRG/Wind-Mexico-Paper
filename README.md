@@ -22,7 +22,7 @@ The data was obtained from the NASA model's API, which can be accessed at the [l
 * In the **notebooks** folder, you will find the notebooks containing the experiments conducted.
 
 * In the **lib** folder, you will find all the supporting code used in the notebooks. For example, in the **lib/energia.py** module, the functions for calculating the annual energy of the sites and more are defined.
-## Autors
+## Authors
 * **Monica Borunda** <br>
   CONACYT-Tecnológico Nacional de México-Centro Nacional de Investigación y Desarrollo Tecnológico, Cuernavaca, Morelos
   Correspondence: [monicabp@cenidet.tecnm.mx](monicabp@cenidet.tecnm.mx)
